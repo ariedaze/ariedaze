@@ -1,5 +1,5 @@
-### AHYEONWAY
-[길 아 현](https://www.notion.so/ahyeonlog/df4ce4946bae49019b3dcf5fdc272f98)  
+### AHYEONWAY(https://www.notion.so/ahyeonlog/df4ce4946bae49019b3dcf5fdc272f98)
+  
 I'm a ✨ iOS developer ✨  
   
   
