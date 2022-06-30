@@ -3,7 +3,11 @@
 I'm a ✨ iOS developer ✨  
   
   
-- 🌱 새싹 iOS 앱 개발자 데뷔 과정
-- 👯 SSAFY 4기
-- 📝 건국대학교 화학공학과
+- 🌱 [2021.09-2022.03] 새싹 iOS 앱 개발자 데뷔 과정
+- 👯 [2020.07-2021.06] SSAFY 4기
+- 📝 [2014.02-2019.02] 건국대학교 화학공학과
+
+
+### arie's app
+- [치타핏](https://apps.apple.com/kr/app/cheetah-fit-diet-diary/id1597847233?l=en)
 
